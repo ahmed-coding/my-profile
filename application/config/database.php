@@ -49,9 +49,9 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'my_profile';
+$db['default']['username'] = 'u305049656_admin';
+$db['default']['password'] = 'Ahmed12345am$$';
+$db['default']['database'] = 'u305049656_my_profile';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
